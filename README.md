@@ -2,6 +2,8 @@
 
 This repo contains files copied from my real-world usage of the `snmp-exporter` and Grafana to monitor an H3C router.
 
+![showcase](./showcase.png)
+
 ## Usage
 
 1. Follow the guide of `snmp-exporter` to set up the exporter, but use the self-generated `snmp.yml` file from this repository.
